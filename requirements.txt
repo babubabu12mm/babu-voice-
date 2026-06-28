@@ -1,0 +1,5 @@
+Kivy>=2.2.0
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+plyer>=2.1.0
+requests>=2.31.0
